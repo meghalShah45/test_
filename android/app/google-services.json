@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125238591258",
+    "project_id": "vehibrain",
+    "storage_bucket": "vehibrain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125238591258:android:1e0cbfb6090518a54af6a3",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125238591258-rp0fafqa6su3fuf5odk17bgkt76anoj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZq4ycCI7MgKLSOktz2IHf8L45KLVAoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125238591258-rp0fafqa6su3fuf5odk17bgkt76anoj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
